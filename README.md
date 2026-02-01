@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: .he/him.
-- ⚡ Fun fact: .i plyu videogames and have a funny Girlfriend
+- ⚡ Fun fact: .i plyu videogames and work the farm
+- 
 - .
 
 <!---
