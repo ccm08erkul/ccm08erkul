@@ -1,0 +1,22 @@
+# VippsTimer
+
+VippsTimer is a Windows overlay timer built for OBS streams with Vipps-style donations.
+
+## Features
+- Countdown timer with red background & turquoise text
+- OBS chroma key safe (#000001)
+- Last 3 payments overlay
+- Top 10 donors (daily)
+- Admin control panel
+- Sound effects by donation amount
+- Click-through overlays
+- Window position memory
+
+## Requirements (for source)
+- Windows 10/11
+- Python 3.11+
+- OBS Studio
+
+## How to run from source
+```bash
+py vippstimer.py
